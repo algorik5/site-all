@@ -1,7 +1,7 @@
 # 참고
-(전체-allthems+stars) https://jamstackthemes.dev/
-(gatsby 1) https://themes.lekoarts.de/
-(gatsby 2) https://codebushi.com/gatsby-starters-and-themes/
+- (전체-allthems+stars) https://jamstackthemes.dev/
+- (gatsby 1) https://themes.lekoarts.de/
+- (gatsby 2) https://codebushi.com/gatsby-starters-and-themes/
 
 ## 주요 theme
 - codebushi/gatsby-theme-document
